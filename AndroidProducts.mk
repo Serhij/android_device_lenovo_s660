@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/S650_ROW.mk \
+    $(LOCAL_DIR)/omni_S650_ROW.mk
