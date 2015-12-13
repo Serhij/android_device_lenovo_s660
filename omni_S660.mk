@@ -1,5 +1,5 @@
 # Inherit device configuration
-$(call inherit-product, device/lenovo/S650_ROW/S650_ROW.mk)
+$(call inherit-product, device/lenovo/S660/S660.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := S660
